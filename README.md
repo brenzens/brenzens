@@ -1,4 +1,4 @@
-# 👋  Hi, I’m Brennen Schmidt
+# 👋  Hi, I’m Brennen Schmidt!
 
 - 👀 I’m interested in unlocking the converesation on cybersecurity
 - 🌱 I’m currently learning how to use GitHub to help open source key learnings and insights
