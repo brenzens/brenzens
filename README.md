@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 
 - [Check out my publications](/Publications.md)
 
-More information will be posted on this page over the next few weeks!
+More information will be posted on this page over the next few weeks! Thanks for checking in!
