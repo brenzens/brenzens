@@ -9,4 +9,4 @@ brenzens/brenzens is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-- [Check out my publications](/publications.md)
+- [Check out my publications](/Publications.md)
