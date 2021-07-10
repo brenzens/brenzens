@@ -13,3 +13,5 @@ Big data will advise on the type of plantings which will thrive now, and also in
 Schmidt, B. (2020, April 8). Digital Hygiene: The next step in the fight against COVID-19. Retrieved from https://catalyst.iabc.com/Innovation/Innovation-Article/digital-hygiene-the-next-step-in-the-fight-against-covid-19.
 
 Schmidt, B. (2020, February 20). It’s Time for Cybersecurity to Emerge from the Shadows (of IT). Retrieved from https://catalyst.iabc.com/Innovation/Innovation-Article/its-time-for-cybersecurity-to-emerge-from-the-shadows-of-it.
+
+More content coming soon...
