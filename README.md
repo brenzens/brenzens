@@ -10,7 +10,7 @@ brenzens/brenzens is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-## Publications
+## Table of Contents
 
 - [Check out my publications](/Publications.md)
 - [Check out my resources](/resources/)
