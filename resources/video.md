@@ -6,8 +6,6 @@ My mirrorless SLR camera is my device of choice for broadcasts. The quality of t
 
 Here's a look at my overall setup (again, credit to David Eaves for the inspiration)
 
-https://media-exp1.licdn.com/dms/image/C5612AQF5tHV-cpQplg/article-inline_image-shrink_1500_2232/0/1592507769834?e=1631750400&v=beta&t=-3tYNOrtY__XCdqNnK6QZe8rEPxiTE99UtSp-6QzHYE
-
 ## Equipment
 
 ### Audio
