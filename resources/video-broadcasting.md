@@ -48,3 +48,4 @@ As noted on elgato's site, your DSLR will need to support both:
 If your device is capable of supporting both of these functions, you should be good to go.
 
 As with any piece of technology, keep in mind that extended use may cause the device to overheat; it may shut down to preserve its functions. It might be best to experiment with an older SLR device, especially if you're planning on using this as a full-time setup.
+
