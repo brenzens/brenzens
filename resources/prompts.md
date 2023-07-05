@@ -21,7 +21,7 @@ I want to articulate a few key points:
 - I would like to pin down a 30 minute time slot on a weekly basis
 - Please confirm which suits
 ```
-Experiment with the model by applying specific restricitions, or requirements, to the output. In this case, I instructed the model to produce a message no longer than 100 words.
+Experiment with the model by applying specific restrictions, or requirements, to the output. In this case, I instructed the model to produce a message no longer than 100 words.
 
 #### Intelligent Assistant Example Code Output
 
@@ -47,7 +47,7 @@ In June 2023, I was invited to speak to a highly-engaged group of Chartered Prof
 
 Naturally, I had to put ChatGPT to the test on the model's ability to compose a catchy session description. Here's what it came up with:
 
-> Are you ready for the ultimate debate between man and machine? Join us for a thrilling presentation where we pit ChatGPT, the language model trained by OpenAI, against seasoned accountants. With years of experience and expertise on their side, the accountants will go head-to-head with ChatGPT, armed with data and algorithms. Who will come out on top?
+> Are you ready for the ultimate debate between human and machine? Join us for a thrilling presentation where we pit ChatGPT, the language model trained by OpenAI, against seasoned accountants. With years of experience and expertise on their side, the accountants will go head-to-head with ChatGPT, armed with data and algorithms. Who will come out on top?
 >
 > In this session, you'll witness an epic battle of wits and knowledge in the world of finance. You'll gain insights into the best accounting practices and strategies from both ChatGPT and the accountants, and walk away with a fresh perspective on the world of finance.
 >
