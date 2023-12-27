@@ -1,6 +1,6 @@
 # Workshop Materials
 
-Use the square icons throughout this page, where available, to quickly and easily copy the prompts used during the workshop session. Below are a few examples to walk through:
+Copy and paste the prompts shown on this page to participate in the workshop session. Below are a few examples to walk through:
 
 | Topic | Description | Prompt |
 | ------ | ----- | ----- |
