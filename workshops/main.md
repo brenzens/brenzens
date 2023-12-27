@@ -1,5 +1,7 @@
 # Workshop Materials
 
+## ChatGPT Workshop
+
 Copy and paste the prompts shown on this page to participate in the workshop session. Below are a few examples to walk through:
 
 | Topic | Description | Prompt |
@@ -16,7 +18,7 @@ Enhanced Capabilities | Contextual content modification | ```You are my intellig
 Refining Enhanced Capabilities | Application of redaction to contents “therewith” | ```Review the attachment provided. Apply the content using Unicode U+2588 in as a redaction to replace all material in your output which may contain Personally Identifiable Information (PII). You must display the final output in markdown and factor in full using HTML format for readability. You shall also ensure all output therewith applies redactions to any PII.```
 Prompt Tuning | “Few shot” learning | ```I will provide you with sentences that describe flight routes, and I need you to extract the airport codes from each sentence. Here are some examples to help you understand the task: Example 1: Text: "Flight from New York to Los Angeles" Airport Codes: (JFK to LAX) Example 2: Text: "Flight from Chicago to Miami" Airport Codes: (ORD to MIA) Now, please extract the airport codes from the following text: Text: "Flight from Regina to Toronto"```
 
-# Example Script
+## Example Script
 
 The demonstration uses the following script which ChatGPT-3.5 generated.
 
