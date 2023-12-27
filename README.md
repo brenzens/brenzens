@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Table of Contents
 
-- [Check out my publications](/Publications.md)
+- [Check out my publications](/publications.md)
 - [Check out my resources](/resources/)
 
 More information will be posted on this page over the next few weeks! Thanks for checking in!
