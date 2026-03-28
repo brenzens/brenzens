@@ -13,6 +13,28 @@
 ## 2026
 
 - **Panelist** — Let's Talk Science - National Day of Learning 2026 (March 28, 2026) — *Beyond the Firewall: Preparing Students and Educators for a World of AI-Powered Threats*
+  
+- **Speaker** — Community Futures Pan West (March 19, 2026) — *Community Futures Board Guide: A Board-Level Overview for Effective Cyber Governance*
+
+- **Workshop Facilitator** — Architecture Organization (March 6, 2026) — *Microsoft 365: Maximizing the Value of Digital Productivity and Collaboration*
+  
+- **Workshop Facilitator** — Professional Services Organization (March 5, 2026) — *Staff Upskilling Series: Microsoft Power Automate*
+  
+- **Workshop Facilitator** — Professional Services Organization (March 3, 2026) — *Staff Upskilling Series: Microsoft Clipchamp*
+  
+- **Workshop Facilitator** — Professional Services Organization (February 24, 2026) — *Staff Upskilling Series: Microsoft Power BI*
+  
+- **Workshop Facilitator** — Professional Services Organization (February 19, 2026) — *Staff Upskilling Series: Acrobat Assistant*
+
+- **Workshop Facilitator** — Professional Services Organization (February 12, 2026) — *Staff Upskilling Series: Microsoft Forms & Microsoft Planner*
+
+- **Workshop Facilitator** — Professional Services Organization (January 27, 2026) — *Staff Upskilling Series: Microsoft SharePoint & Ask an Expert*
+  
+- **Workshop Facilitator** — Professional Services Organization (January 22, 2026) — *Staff Upskilling Series: Microsoft Excel*
+
+- **Workshop Facilitator** — Professional Services Organization (January 15, 2026) — *Staff Upskilling Series: Microsoft PowerPoint & Microsoft Word*
+
+- **Tabletop Exercise Facilitator** — Higher Education Sector, Western Canada (January 2026) — *Cyber Preparedness at the Executive Table*
 
 ## 2025
 
@@ -21,8 +43,6 @@
 - **Board Executive Briefing** — Benefits Organization (December 4, 2025) — *Artificial Intelligence Risk & Governance: Protecting Member Data in an Era of Intelligent Systems*
 
 - **Session Facilitator** — CPA Alberta, Virtual (November 18, 2025) — *Copilot for CPAs: From Curiosity to Capability*
-
-- **Tabletop Exercise Facilitator** — Higher Education Sector, Western Canada (November 2025) — *Cyber Preparedness at the Executive Table*
 
 - **Session Facilitator** — SPOHOX25™ Live, Regina, SK (October 29, 2025) — *Cybersafety at Events: Hacking the Hackers*
 
