@@ -1,4 +1,6 @@
-## Upcoming Engagements
+# Speaking Engagements
+
+## Upcoming
 
 - **Workshop Facilitator** — Professional Services Organization, Kananaskis, AB (March 31, 2026) — *Charting a Path Forward with Artificial Intelligence (AI)*
 
