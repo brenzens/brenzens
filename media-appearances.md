@@ -1,5 +1,3 @@
-# Media Appearances
-
 ## National Media
 
 - [CBC National (2024, October 25): Struggling to remember a password?](https://www.cbc.ca/listen/live-radio/1-90-columnists-from-cbc-radio/clip/16104066-struggling-remember-password)
