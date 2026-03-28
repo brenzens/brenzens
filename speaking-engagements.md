@@ -60,7 +60,7 @@
 
 - **Keynote Speaker** — BSides Regina, Regina, SK (March 21, 2024) — *Cracking the Consultant's Code: The Art of Strategic Storytelling in Presentations*
 
-- **Panelist** — Alumni Effect, University of Regina, Virtual (March 20, 2024) — *The Path to Technology*
+- **Panelist** — Alumni Effect, University of Regina, Virtual (March 20, 2024) — *[The Path to Technology](https://www.youtube.com/watch?v=evIQMZzrFGM)*
 
 - **Keynote Speaker** — Community Futures Pan West Network, Kelowna, BC (February 26, 2024) — *Digital Transformation*
 
@@ -106,13 +106,13 @@
 
 - **Guest Lecturer** — University of Regina, Paul J. Hill School of Business, Regina, SK (November 16, 2022) — Business 375: Managing Information Systems — *Making Cent$ of Cybersecurity*
 
-- **Event Host** — MapleSEC Cybersecurity Conference, Virtual (October 20, 2022)
+- **Event Host** — [MapleSEC Cybersecurity Conference](https://www.itworldcanada.com/maplesec), Virtual (October 20, 2022)
 
 - **Speaker** — University of Regina, Hill JDC West Business Case Competition, Regina, SK (September 21, 2022)
 
-- **Event Host** — IT World Canada Briefing, Virtual (September 13, 2022) — *Zero Means Zero: Adopting ZTNA for the Hybrid Office Era*
+- **Event Host** — IT World Canada Briefing, Virtual (September 13, 2022) — *[Zero Means Zero: Adopting ZTNA for the Hybrid Office Era](https://us02web.zoom.us/webinar/register/7616602454783/WN_k6InoPf1SUKJ5rR1Aaq8Rw?utm_source=SM&utm_medium=W-22188C+Briefing&utm_term=&utm_content=&utm_campaign=)*
 
-- **Event Host** — IT World Canada Briefing, Virtual (May 17, 2022) — *Mind the Gaps: Help Your Customers Streamline the Hybrid Office*
+- **Event Host** — IT World Canada Briefing, Virtual (May 17, 2022) — *[Mind the Gaps: Help Your Customers Streamline the Hybrid Office](https://us02web.zoom.us/webinar/register/8716517013248/WN_CJWHiI1FR4OiQfc4VDV-bg)*
 
 - **Co-Presenter** — Government of Saskatchewan, Ministry of Government Relations Senior Leadership Team, Virtual (April 27, 2022) — *Making Cent$ of Cybersecurity: The Role of Governance*
 
@@ -120,9 +120,9 @@
 
 - **Workshop Co-Facilitator** — Johnson Shoyama Graduate School of Public Policy, Virtual (April 22, 2022) — *Making Cent$ of Cybersecurity: The Role of Governance*
 
-- **Panelist** — MapleSEC Cybersecurity Conference, Virtual (February 24, 2022) — *Find Your Vulnerabilities Before the Bad Actors Do*
+- **Panelist** — MapleSEC Cybersecurity Conference, Virtual (February 24, 2022) — *[Find Your Vulnerabilities Before the Bad Actors Do](https://www.itworldcanada.com/maplesec)*
 
-- **Panelist** — Governance Professionals of Canada, Virtual (February 23, 2022) — *The Role of the Board and Governance Professional in Managing Cyber Risk*
+- **Panelist** — Governance Professionals of Canada, Virtual (February 23, 2022) — *[The Role of the Board and Governance Professional in Managing Cyber Risk](https://gpcanada.org/Public/iCore-GPC/Event_display.aspx?EventKey=PD23022022&WebsiteKey=070d9a2f-5a42-42e2-a1e7-41e11bde8e47)*
 
 ## 2021
 
@@ -132,11 +132,11 @@
 
 - **Moderator** — IT World Canada Briefing, Virtual (October 28, 2021) — *Adopting a Culture of Speed*
 
-- **Event Host** — MapleSEC Cybersecurity Conference, Virtual (October 5, 2021) — *Standing on Guard*
+- **Event Host** — [MapleSEC Cybersecurity Conference](https://www.itworldcanada.com/maplesec), Virtual (October 5, 2021) — *Standing on Guard*
 
 - **Keynote Speaker** — IIBA Saskatchewan Chapter, Virtual (September 30, 2021) — *Beyond Analysis: A Guide to Influencing Cybersecurity in DevOps*
 
-- **Moderator** — IT World Canada Briefing, Virtual (June 15, 2021) — *Who is Creeping Inside Your Security Perimeter*
+- **Moderator** — IT World Canada Briefing, Virtual (June 15, 2021) — *[Who is Creeping Inside Your Security Perimeter](https://www.itworldcanada.com/article/learn-to-protect-your-company-from-a-new-wave-of-identity-breaches/454125)*
 
 - **Moderator** — IT World Canada Briefing, Virtual (April 21, 2021) — *Preparing Your Organization for a Ransomware Attack with AI*
 
@@ -156,7 +156,7 @@
 
 - **Speaker** — International Association of Business Communicators (IABC) Southern Region, Virtual (November 12, 2020) — *The Communicator's Role in Unlocking the Conversation on Cybersecurity*
 
-- **Panelist** — MapleSEC Virtual Cybersecurity Conference, Virtual (October 6, 2020) — *How to Get the Best Out of Your Team Beyond Plug and Play Options*
+- **Panelist** — MapleSEC Virtual Cybersecurity Conference, Virtual (October 6, 2020) — *[How to Get the Best Out of Your Team Beyond Plug and Play Options](https://www.youtube.com/watch?v=oJH1G95kMXU&t=5336s)*
 
 - **Guest Lecturer** — University of Regina, Paul J. Hill School of Business, Virtual (September 21, 2020) — *Cybersecurity and the Battleground of Truth*
 
@@ -188,7 +188,7 @@
 
 - **Keynote Speaker** — ISACA Regina Chapter Annual General Meeting, Regina, SK (May 29, 2019) — *How Mobile is Your Data?*
 
-- **Featured Speaker** — UR Change Makers: Tech Changes Everything, Regina, SK (April 11, 2019) — *Democracy of Distraction: A Political Divide to Secure our Digital Future*
+- **Featured Speaker** — UR Change Makers: Tech Changes Everything, Regina, SK (April 11, 2019) — *[Democracy of Distraction: A Political Divide to Secure our Digital Future](https://www.youtube.com/watch?v=NxH_dZymX5s&t=2s)*
 
 ## 2018
 
