@@ -1,3 +1,19 @@
+## Upcoming Engagements
+
+- **Workshop Facilitator** — Professional Services Organization, Kananaskis, AB (March 31, 2026) — *Charting a Path Forward with Artificial Intelligence (AI)*
+
+- **Workshop Facilitator** — Agri-Food Organization (April 6, 2026) — *Hands-On with ChatGPT Prompt Like a Pro Workshop*
+
+- **Speaker** — Professional Services Organization (April 9, 2026) — *AI Trends in Accounting*
+
+- **Workshop Facilitator** — Agri-Food Organization, Winnipeg, MB (April 13, 2026) — *Hands-On with ChatGPT Hack-a-Thon*
+
+- **Panelist** — Law Society of Saskatchewan (April 15, 2026) — *Signals of Trouble: Spotting Potential Decision Traps That Escalate Cyber Liability*
+
+## 2026
+
+- **Panelist** — Let's Talk Science - National Day of Learning 2026 (March 28, 2026) — *Beyond the Firewall: Preparing Students and Educators for a World of AI-Powered Threats*
+
 ## 2025
 
 - **Executive Tabletop Facilitator** — CPA Alberta (December 10, 2025) — *Under Cyber Siege: Protecting the Financial Fortress in a Tabletop Simulation*
