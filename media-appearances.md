@@ -24,6 +24,8 @@
 
 ## Provincial Media
 
+- [CTV Regina (2026, April 7): eTransfer Online Payment](https://youtu.be/RzOnm_KJDjU?si=H-xQiO5pVdeGghA8)
+
 - [CTV Regina (2026, January 16): Southern Sask. businesses warn against unauthorized gift card sales online](https://www.ctvnews.ca/regina/video/2026/01/16/southern-sask-businesses-warn-against-unauthorized-gift-card-sales-online/)
 
 - [The Western Producer (2024, November 7): Is right to repair a security vulnerability?](https://www.producer.com/machinery/is-right-to-repair-a-security-vulnerability/)
