@@ -24,7 +24,7 @@
 
 ## Provincial Media
 
-- [CTV Regina (2026, April 7): eTransfer Online Payment](https://youtu.be/RzOnm_KJDjU?si=H-xQiO5pVdeGghA8)
+- [CTV Regina (2026, April 7): eTransfer Online Payment Safety](https://youtu.be/RzOnm_KJDjU?si=H-xQiO5pVdeGghA8)
 
 - [CTV Regina (2026, January 16): Southern Sask. businesses warn against unauthorized gift card sales online](https://www.ctvnews.ca/regina/video/2026/01/16/southern-sask-businesses-warn-against-unauthorized-gift-card-sales-online/)
 
