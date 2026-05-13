@@ -2,7 +2,19 @@
 
 ## Upcoming
 
-- **Workshop Facilitator** — Professional Services Organization, Kananaskis, AB (March 31, 2026) — *Charting a Path Forward with Artificial Intelligence (AI)*
+- **Workshop Facilitator** — CPA Alberta (May 27, 2026) — *Hands-On with AI: Designing Repeatable AI Workflows*
+
+- **Panel Moderator** — 365 Technologies, Saskatoon SK (May 28, 2026) — *Tacos, Beer, and the AI Risks That Could Cost You*
+
+- **Executive Tabletop Facilitator** — Saskatchewan Non-Profit Client (May 26, 2026) — *Business Email Compromise: A Tabletop Simulation*
+
+- **Workshop Facilitator** — CPA New Brunswick (May 20, 2026) — *Copilot for CPAs: From Curiosity to Capability*
+
+- **Workshop Facilitator** — RMAA of Saskatchewan (May 14, 2026) — *Prompt Like a Pro: Practical AI Strategies for Rural Municipal Administration*
+
+- **Workshop Facilitator** — CPA Alberta (May 13, 2026) — *Hands-On with AI: Prompting Essentials for CPAs*
+
+## 2026
 
 - **Workshop Facilitator** — Agri-Food Organization (April 6, 2026) — *Hands-On with ChatGPT Prompt Like a Pro Workshop*
 
@@ -12,7 +24,7 @@
 
 - **Panelist** — Law Society of Saskatchewan (April 15, 2026) — *Signals of Trouble: Spotting Potential Decision Traps That Escalate Cyber Liability*
 
-## 2026
+- **Workshop Facilitator** — Professional Services Organization, Kananaskis, AB (March 31, 2026) — *Charting a Path Forward with Artificial Intelligence (AI)*
 
 - **Panelist** — Let's Talk Science - National Day of Learning 2026 (March 28, 2026) — *Beyond the Firewall: Preparing Students and Educators for a World of AI-Powered Threats*
   
