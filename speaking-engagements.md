@@ -2,7 +2,7 @@
 
 ## Upcoming
 
-- **Executive Briefing** — Saskatchewan Water Utility (June 17, 2026) — *Setting Up Success: Change Management and AI disruption and Technology Disruption*
+- **Executive Briefing** — Saskatchewan Water Utility (June 17, 2026) — *The Flow of Success: Change Management & AI Enablement*
   
 - **Executive Tabletop Facilitator** — Saskatchewan Benefits Administration Client (June 17, 2026) — *Ransomware: A Tabletop Simulation*
 
