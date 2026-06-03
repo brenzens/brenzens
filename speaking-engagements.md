@@ -2,6 +2,14 @@
 
 ## Upcoming
 
+- **Executive Briefing** — Saskatchewan Water Utility (June 17, 2026) — *Setting Up Success: Change Management and AI disruption and Technology Disruption*
+  
+- **Executive Tabletop Facilitator** — Saskatchewan Benefits Administration Client (June 17, 2026) — *Ransomware: A Tabletop Simulation*
+
+- **Workshop Facilitator** — UMAAS of Saskatchewan, Saskatoon SK (June 5, 2026) — *Prompt Like a Pro: Practical AI Strategies for Urban Municipal Administration*
+
+## 2026
+
 - **Workshop Facilitator** — CPA Alberta (May 27, 2026) — *Hands-On with AI: Designing Repeatable AI Workflows*
 
 - **Panel Moderator** — 365 Technologies, Saskatoon SK (May 28, 2026) — *Tacos, Beer, and the AI Risks That Could Cost You*
@@ -11,10 +19,8 @@
 - **Workshop Facilitator** — CPA New Brunswick (May 20, 2026) — *Copilot for CPAs: From Curiosity to Capability*
 
 - **Workshop Facilitator** — RMAA of Saskatchewan (May 14, 2026) — *Prompt Like a Pro: Practical AI Strategies for Rural Municipal Administration*
-
+  
 - **Workshop Facilitator** — CPA Alberta (May 13, 2026) — *Hands-On with AI: Prompting Essentials for CPAs*
-
-## 2026
 
 - **Workshop Facilitator** — Agri-Food Organization (April 6, 2026) — *Hands-On with ChatGPT Prompt Like a Pro Workshop*
 
