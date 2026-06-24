@@ -2,9 +2,9 @@
 
 ## Upcoming
 
-- **Workshop Facilitator** — Western Canadian Retailing Organization (November 7, 2026) — *Cyber and AI: A Board-Level Overview for Effective Cyber Governance*
-
 - **Speaker** — Western Canada Cemetery Association (September 11, 2026) — *Cyber 101: Making Cents of Cybersecurity*
+
+- **Workshop Facilitator** — Western Canadian Retailing Organization (November 7, 2026) — *Cyber and AI: A Board-Level Overview for Effective Cyber Governance*
 
 ## 2026
 
