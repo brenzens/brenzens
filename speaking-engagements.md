@@ -2,13 +2,19 @@
 
 ## Upcoming
 
+- **Workshop Facilitator** — Western Canadian Retailing Organization (November 7, 2026) — *Cyber and AI: A Board-Level Overview for Effective Cyber Governance*
+
+- **Speaker** — Western Canada Cemetery Association (September 11, 2026) — *Cyber 101: Making Cents of Cybersecurity*
+
+## 2026
+
+- **Executive Briefing** — Labour Organization, Saskatoon SK (June 22, 2026) — *Senior Leadership Offsite: Charting a Path Forward with Artificial Intelligence (AI)*
+
 - **Executive Briefing** — Saskatchewan Water Utility (June 17, 2026) — *The Flow of Success: Change Management & AI Enablement*
-  
+
 - **Executive Tabletop Facilitator** — Saskatchewan Benefits Administration Client (June 17, 2026) — *Ransomware: A Tabletop Simulation*
 
 - **Workshop Facilitator** — UMAAS of Saskatchewan, Saskatoon SK (June 5, 2026) — *Prompt Like a Pro: Practical AI Strategies for Urban Municipal Administration*
-
-## 2026
 
 - **Workshop Facilitator** — CPA Alberta (May 27, 2026) — *Hands-On with AI: Designing Repeatable AI Workflows*
 
