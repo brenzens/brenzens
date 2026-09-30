@@ -2,11 +2,19 @@
 
 ## Upcoming
 
-- **Speaker** — Western Canada Cemetery Association (September 11, 2026) — *Cyber 101: Making Cents of Cybersecurity*
-
+- **Workshop Facilitator** — CPA Saskatchewan & Manitoba (October 6, 2026) — *AI as a Practice Efficiency Engine: Reclaim Billable Hours with Practical Workflows*
+  
 - **Workshop Facilitator** — Western Canadian Retailing Organization (November 7, 2026) — *Cyber and AI: A Board-Level Overview for Effective Cyber Governance*
 
 ## 2026
+
+- **Moderator** — Saskatoon Chamber of Commerce (September 29, 2026) — *Building What's Next: The Future of AI, Quantum, Infrastructure, and Quantum in SK*
+
+- **Speaker** — Western Canada Cemetery Association (September 11, 2026) — *Cyber 101: Making Cents of Cybersecurity*
+
+- **Speaker** — Institute of Internal Auditors - Winnipeg Chapter (September 10, 2026) — *The Future of AI at Work: Governing AI-Assisted Audit Workflows*
+
+- **Facilitator** — Agriculture Sector Client (September 1, 2026) — *AI Policy Walkthrough Session*
 
 - **Executive Briefing** — Labour Organization, Saskatoon SK (June 22, 2026) — *Senior Leadership Offsite: Charting a Path Forward with Artificial Intelligence (AI)*
 
