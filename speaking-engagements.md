@@ -8,9 +8,11 @@
 
 ## 2026
 
-- **Moderator** — Saskatoon Chamber of Commerce (September 29, 2026) — *Building What's Next: The Future of AI, Quantum, Infrastructure, and Quantum in SK*
+- **Facilitator** — CPA Saskatchewan, Regina SK (October 1, 2026) — *Introduction to Microsoft Copilot*
 
-- **Speaker** — Western Canada Cemetery Association (September 11, 2026) — *Cyber 101: Making Cents of Cybersecurity*
+- **Moderator** — Saskatoon Chamber of Commerce, Saskatoon SK (September 29, 2026) — *Building What's Next: The Future of AI, Quantum, Infrastructure, and Quantum in SK*
+
+- **Speaker** — Western Canada Cemetery Association, Saskatoon SK (September 11, 2026) — *Cyber 101: Making Cents of Cybersecurity*
 
 - **Speaker** — Institute of Internal Auditors - Winnipeg Chapter (September 10, 2026) — *The Future of AI at Work: Governing AI-Assisted Audit Workflows*
 
