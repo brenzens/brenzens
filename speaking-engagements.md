@@ -8,6 +8,8 @@
   
 - **Facilitator** — Western Canadian Retailing Organization, Winnipeg, MB (November 7, 2026) — *Cyber and AI: A Board-Level Overview for Effective Cyber Governance*
 
+- **Facilitator** — CPA Prince Edward Island (November 18, 2026) — *Copilot for CPAs: From Curiosity to Capability*
+
 ## 2026
 
 - **Facilitator** — CPA Saskatchewan & Manitoba (October 6, 2026) — *AI as a Practice Efficiency Engine: Reclaim Billable Hours with Practical Workflows*
