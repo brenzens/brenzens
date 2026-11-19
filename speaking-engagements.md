@@ -2,15 +2,15 @@
 
 ## Upcoming
 
-- **Moderator** — Data Centres in Saskatchewan (DiSK) 3.0, Regina SK (October 21, 2026) — *Stakeholder Perspectives on Data Centres*
-
-- **Facilitator** — Provincial Crown Corporation (October 22, 2026) — *Microsoft Copilot: Prompt Like a Pro*
-  
-- **Facilitator** — Western Canadian Retailing Organization, Winnipeg, MB (November 7, 2026) — *Cyber and AI: A Board-Level Overview for Effective Cyber Governance*
+## 2026
 
 - **Facilitator** — CPA Prince Edward Island (November 18, 2026) — *Copilot for CPAs: From Curiosity to Capability*
 
-## 2026
+- **Facilitator** — Federated Co-operatives Limited (FCL) Leaders Conference, Winnipeg, MB (November 7, 2026) — *Cyber and AI: A Board-Level Overview for Effective Cyber Governance*
+
+- **Facilitator** — Provincial Crown Corporation (October 22, 2026) — *Microsoft Copilot: Prompt Like a Pro*
+
+- **Moderator** — Data Centres in Saskatchewan (DiSK) 3.0, Regina SK (October 21, 2026) — *Stakeholder Perspectives on Data Centres*
 
 - **Facilitator** — CPA Saskatchewan & Manitoba (October 6, 2026) — *AI as a Practice Efficiency Engine: Reclaim Billable Hours with Practical Workflows*
 
